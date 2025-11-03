@@ -1,2 +1,0 @@
-# cyber-game-security
-หาภัยคุกคามทางอีเมล
